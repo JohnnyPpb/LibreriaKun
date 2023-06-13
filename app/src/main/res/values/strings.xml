@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LibreriaKun</string>
+    <string-array name="clientes">
+        <item>Soto Kun</item>
+        <item>David Chan</item>
+        <item>Justin Chan</item>
+        <item>Sebita Chan</item>
+    </string-array>
+</resources>
